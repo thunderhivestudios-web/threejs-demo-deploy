@@ -1,0 +1,25 @@
+{
+  "glb": [
+    "models/Model06_2SeaterSofaLeftCorner_Variants_2.glb",
+    "models/Model06_2SeaterSofaRightCorner_Variants_2.glb",
+    "models/Model06_2SeaterSofa_Variants_2.glb",
+    "models/Model06_3SeaterSofaLeftCorner_Variants_2.glb",
+    "models/Model06_3SeaterSofaRightCorner_Variants_2.glb",
+    "models/Model06_3SeaterSofa_Variants_2.glb",
+    "models/Model06_4SeaterSofaLeftCorner_Variants_2.glb",
+    "models/Model06_4SeaterSofaRightCorner_Variants_2.glb",
+    "models/Model06_4SeaterSofa_Variants_2.glb",
+    "models/Model06_Armchair_Variants_2.glb",
+    "models/Model06_CornerSeat_Variants_2.glb",
+    "models/Model06_CornerSofaWithOttoman_Variants_2.glb",
+    "models/Model06_CornerSofa_Variants_2.glb",
+    "models/Model06_LeftArmModule_Variants_2.glb",
+    "models/Model06_MiddleModuleSeat_Variants_2.glb",
+    "models/Model06_Ottoman_Variants_2.glb",
+    "models/Model06_RightArmModule_Variants_2.glb"
+  ],
+  "exr": [
+    "env/qwantani_dusk_2_1k.exr",
+    "env/studio_small_08_1k.exr"
+  ]
+}
